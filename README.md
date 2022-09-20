@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abromeit&label=Profile%20views&color=0e75b6&style=flat" alt="abromeit" /> <em>since 2022-05-01</em></p>
-
 <p align="left"> <a href="https://twitter.com/der_abro" target="blank"><img src="https://img.shields.io/twitter/follow/der_abro?logo=twitter&style=for-the-badge" alt="der_abro" /></a> </p>
 
 
